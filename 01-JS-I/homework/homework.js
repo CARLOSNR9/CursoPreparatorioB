@@ -7,16 +7,18 @@ const nuevaString = "Viva Pasto";
 const nuevoNum = 100;
 
 // Crea una variable booleana:
-const nuevoBool = null;
+const nuevoBool = true;
+ 
 
 // Resuelve el siguiente problema matemático:
-const nuevaResta = null;
+const nuevaResta = 20 == 25 - 5;
+ 
 
 // Resuelve el siguiente problema matemático:
-const nuevaMultiplicacion = null;
+const nuevaMultiplicacion = 20 == 10 * 2;
 
 // Resuelve el siguiente problema matemático:
-const nuevoModulo = null;
+const nuevoModulo = 2 == 90 % 8;
 
 // No modificar nada debajo de esta línea
 // --------------------------------
